@@ -332,8 +332,3 @@ Developed as an AI-powered academic learning platform to enhance educational acc
 
 This project is intended for educational and research purposes.
 
----
-
-# ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub.
